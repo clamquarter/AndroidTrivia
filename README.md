@@ -1,7 +1,7 @@
 # AndroidTrivia
 
 <h3>Summary</h3>
-AndroidTrivia is a small project I did as part of my CIS 217 course. It's a very simple app that randomizes quiz questions about Android development/Kotlin. The tutorial can be found in the Google Developers learning path here at https://developers.google.com/profile/badges/playlists/android/android-development-with-kotlin-6. Students were tasked with:
+AndroidTrivia is a small project I did as part of my CIS 217 course. It's a very simple app that randomizes quiz questions about Android development/Kotlin. The tutorial can be found in the Google Developers learning path <a href="https://developers.google.com/profile/badges/playlists/android/android-development-with-kotlin-6">here</a>. Students were tasked with:<br><br>
 
 <ul>
 <li>Understanding fragments.</li>
